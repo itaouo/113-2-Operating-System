@@ -1,0 +1,4 @@
+total 32
+-rwxrwxr-x 1 user user 21736 Mar 23 22:16 chap3-1
+-rw-rw-r-- 1 user user  4738 Mar 23 22:09 chap3-1.c
+-rw-r--r-- 1 user user     0 Mar 23 22:17 output.txt
